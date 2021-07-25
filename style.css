@@ -1,3 +1,4 @@
+<?php include("shop.php"); ?>
 .w3-blue, .w3-hover-blue:hover {
 color:#0D3249!important;
 background-color:#0D3249  !important;
@@ -14,4 +15,12 @@ background-color: #F4C918!important;
 }
 .logo { float left;
 	
+	
+}
+.header a {font-weight: bold;}
+.header a:link, .nav a:visited {color: red;}
+.header a:hover{color: #013220; text-decoration: none;}{
+	
+}
+.sidebar { float left; 
 }
